@@ -55,7 +55,7 @@ async def set_data_info(interation: discord.Interaction, nickname: str, name_id:
             )
             return
 
-    chanel = bot.get_channel(1569647438741110784)
+    chanel = bot.get_channel(1570753773578494132) # ID ห้องของ Dis หลัก
 
     # 2. สร้าง ID ให้ผู้ใช้
     while True:
